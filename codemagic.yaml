@@ -1,5 +1,8 @@
 workflows:
-  hello-world:
-    name: Hello world workflow
-    scripts:
-        - echo "Hello World!"
+    android-workflow-id:
+        name: Android Sample Workflow
+        # .......    
+        # .......
+        # .......  
+    ios-workflow-id:
+        name: iOS Sample Workflow
